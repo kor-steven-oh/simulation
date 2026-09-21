@@ -38,5 +38,5 @@ window.addEventListener('resize',resize);window.addEventListener('hashchange',fr
 # Print variables also work without JavaScript.
 import re
 page=re.sub(r'style="([^"]+)"',lambda m:'style="'+m[1]+''.join(';--'+k+':'+v for k,prop in [('x','left'),('y','top'),('w','width'),('h','height'),('fs','font-size')] for v in re.findall(r'(?:^|;)'+prop+r':([\d.]+)px',m[1]))+'"',page)
-(root/'Strategic_Workforce_Leadership_Briefing.html').write_text(page)
+(root/'briefing.html').write_text(page)
 print('Created HTML,',len(slides),'slides,',len(page.encode()),'bytes')

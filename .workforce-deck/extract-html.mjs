@@ -6,7 +6,7 @@ const boxes=[];
 function tx(s,text,x,y,w,h,size=28,bold=false,color=C.ink){const q=s.shapes.add({name:`text-${boxes.length}`,geometry:'textbox',position:{left:x,top:y,width:w,height:h},fill:'none',line:{fill:'none',width:0}});q.text=text;q.text.style={fontFamily:'Apple SD Gothic Neo',typeface:'Apple SD Gothic Neo',fontSize:size,bold,color,autoFit:'none',verticalAlignment:'top',insets:{left:0,right:0,top:0,bottom:0}};boxes.push({slide:p.slides.items.length,text,x,y,w,h});return q;}
 function rect(s,x,y,w,h,fill=C.gray){return s.shapes.add({geometry:'rect',position:{left:x,top:y,width:w,height:h},fill,line:{fill:'none',width:0}});}
 function line(s,x,y,w){rect(s,x,y,w,1,C.rule);}
-function slide(title,section,source,extra=''){let s=p.slides.add();s.background.fill='#FFFFFF';tx(s,title,42,40,1196,82,48,true);tx(s,section,42,663,1100,29,22,false,C.muted);tx(s,String(p.slides.items.length).padStart(2,'0'),1180,660,58,32,22,false,C.muted);s.speakerNotes.textFrame.setText(`${extra}\n[Sources]\nStrategic_Workforce_Intelligence_Platform_Design.md — ${source}\n[/Sources]`);return s;}
+function slide(title,section,source,extra=''){let s=p.slides.add();s.background.fill='#FFFFFF';tx(s,title,42,40,1196,82,48,true);tx(s,section,42,663,1100,29,22,false,C.muted);tx(s,String(p.slides.items.length).padStart(2,'0'),1180,660,58,32,22,false,C.muted);s.speakerNotes.textFrame.setText(`${extra}\n[Sources]\ndesign.md — ${source}\n[/Sources]`);return s;}
 function pair(s,x,y,w,heading,body){tx(s,heading,x,y,w,48,34,true);tx(s,body,x,y+67,w,140,28,false,C.muted);}
 function cols(title,section,items,source,intro=''){let s=slide(title,section,source);if(intro)tx(s,intro,42,158,1196,105,32,false,C.muted);items.forEach((a,i)=>pair(s,42+i*411,335,374,a[0],a[1]));return s;}
 function two(title,section,a,b,source){let s=slide(title,section,source);pair(s,42,222,568,...a);pair(s,658,222,580,...b);return s;}
@@ -16,7 +16,7 @@ function rows(title,section,items,source,foot=''){let s=slide(title,section,sour
 let s=p.slides.add();s.background.fill='#FFFFFF';tx(s,'리더 보고 · 시스템 구축 구상',42,42,1196,50,32);
 tx(s,'전략적 인력운영\n인텔리전스 플랫폼',42,185,1196,230,76,true);
 tx(s,'사람·업무·사업계획을 연결하는\n전사 인력 의사결정 체계',42,498,1196,112,36,false,C.muted);
-s.speakerNotes.textFrame.setText('[Sources]\nStrategic_Workforce_Intelligence_Platform_Design.md — 0, 1, 21\n[/Sources]');
+s.speakerNotes.textFrame.setText('[Sources]\ndesign.md — 0, 1, 21\n[/Sources]');
 }
 cols('인력 의사결정에 필요한 근거를 연결합니다','01  추진 목적',[
 ['현재를 이해','어디에 누가 배치되어\n어떤 일을 수행하는지\n동일한 기준으로 파악'],

@@ -5,7 +5,7 @@
 {"kind":"textbox","id":"sh/2l8ni9on","slide":1,"name":"text-0","text":"리더 보고 · 시스템 구축 구상","textPreview":"리더 보고 · 시스템 구축 구상","textChars":17,"textLines":1,"bbox":[42,42,1196,50]}
 {"kind":"textbox","id":"sh/poz6do7e","slide":1,"name":"text-1","text":"전략적 인력운영\n인텔리전스 플랫폼","textPreview":"전략적 인력운영 | 인텔리전스 플랫폼","textChars":18,"textLines":2,"bbox":[42,185,1196,230]}
 {"kind":"textbox","id":"sh/4nq5kj6t","slide":1,"name":"text-2","text":"사람·업무·사업계획을 연결하는\n전사 인력 의사결정 체계","textPreview":"사람·업무·사업계획을 연결하는 | 전사 인력 의사결정 체계","textChars":30,"textLines":2,"bbox":[42,498,1196,112]}
-{"kind":"notes","id":"nt/u6ld2g","slide":1,"text":"[Sources]\nStrategic_Workforce_Intelligence_Platform_Design.md — 0, 1, 21\n[/Sources]"}
+{"kind":"notes","id":"nt/u6ld2g","slide":1,"text":"[Sources]\ndesign.md — 0, 1, 21\n[/Sources]"}
 {"kind":"slide","id":"sl/qqlp3c","slide":2,"title":"인력 의사결정에 필요한 근거를 연결합니다","textShapes":10}
 {"kind":"textbox","id":"sh/il8rep47","slide":2,"name":"text-3","text":"인력 의사결정에 필요한 근거를 연결합니다","textPreview":"인력 의사결정에 필요한 근거를 연결합니다","textChars":22,"textLines":1,"bbox":[42,40,1196,82]}
 {"kind":"textbox","id":"sh/5ojap4ni","slide":2,"name":"text-4","text":"01  추진 목적","textPreview":"01  추진 목적","textChars":9,"textLines":1,"bbox":[42,663,1100,29]}
@@ -17,7 +17,7 @@
 {"kind":"textbox","id":"sh/7ux8fa5k","slide":2,"name":"text-10","text":"사업·과제 계획에 따른\n역량과 Man month 수요를\n가용 공급과 비교","textPreview":"사업·과제 계획에 따른 | 역량과 Man month 수요를 | 가용 공급과 비교","textChars":40,"textLines":3,"bbox":[453,402,374,140]}
 {"kind":"textbox","id":"sh/6tor654z","slide":2,"name":"text-11","text":"대안을 비교","textPreview":"대안을 비교","textChars":6,"textLines":1,"bbox":[864,335,374,48]}
 {"kind":"textbox","id":"sh/0redsfal","slide":2,"name":"text-12","text":"내부 재배치와 채용의\n일정·원가·사업 영향을\n함께 검토","textPreview":"내부 재배치와 채용의 | 일정·원가·사업 영향을 | 함께 검토","textChars":30,"textLines":3,"bbox":[864,402,374,140]}
-{"kind":"notes","id":"nt/qqlp3c","slide":2,"text":"\n[Sources]\nStrategic_Workforce_Intelligence_Platform_Design.md — 0–2, 6, 21\n[/Sources]"}
+{"kind":"notes","id":"nt/qqlp3c","slide":2,"text":"\n[Sources]\ndesign.md — 0–2, 6, 21\n[/Sources]"}
 {"kind":"slide","id":"sl/jje6ku","slide":3,"title":"데이터에서 의사결정까지 하나로 연결합니다","textShapes":17}
 {"kind":"textbox","id":"sh/3mh0bmdc","slide":3,"name":"text-13","text":"데이터에서 의사결정까지 하나로 연결합니다","textPreview":"데이터에서 의사결정까지 하나로 연결합니다","textChars":22,"textLines":1,"bbox":[42,40,1196,82]}
 {"kind":"textbox","id":"sh/onqhkruh","slide":3,"name":"text-14","text":"02  전체 시스템 구조","textPreview":"02  전체 시스템 구조","textChars":13,"textLines":1,"bbox":[42,663,1100,29]}
@@ -41,7 +41,7 @@
 {"kind":"shape","id":"sh/6x8r2psv","slide":3,"bbox":[42,547,1196,65]}
 {"kind":"textbox","id":"sh/7yh8bu9g","slide":3,"name":"text-28","text":"원천 시스템","textPreview":"원천 시스템","textChars":6,"textLines":1,"bbox":[61,564,422,43]}
 {"kind":"textbox","id":"sh/8zq94zq1","slide":3,"name":"text-29","text":"HR  ·  근태  ·  과제  ·  역량  ·  채용  ·  원가  ·  사업계획","textPreview":"HR  ·  근태  ·  과제  ·  역량  ·  채용  ·  원가  ·  사업계획","textChars":46,"textLines":1,"bbox":[492,565,725,41]}
-{"kind":"notes","id":"nt/jje6ku","slide":3,"text":"개념 구조이며 실제 연계 주기와 기술 구성은 상세 설계에서 확정한다.\n[Sources]\nStrategic_Workforce_Intelligence_Platform_Design.md — 3, 13, 20\n[/Sources]"}
+{"kind":"notes","id":"nt/jje6ku","slide":3,"text":"개념 구조이며 실제 연계 주기와 기술 구성은 상세 설계에서 확정한다.\n[Sources]\ndesign.md — 3, 13, 20\n[/Sources]"}
 {"kind":"slide","id":"sl/5hwyyh","slide":4,"title":"공통 기준과 시점 이력이 분석의 기반입니다","textShapes":11}
 {"kind":"textbox","id":"sh/yxgzmh47","slide":4,"name":"text-30","text":"공통 기준과 시점 이력이 분석의 기반입니다","textPreview":"공통 기준과 시점 이력이 분석의 기반입니다","textChars":23,"textLines":1,"bbox":[42,40,1196,82]}
 {"kind":"textbox","id":"sh/l0rixw3y","slide":4,"name":"text-31","text":"03  데이터 기반","textPreview":"03  데이터 기반","textChars":10,"textLines":1,"bbox":[42,663,1100,29]}
@@ -54,7 +54,7 @@
 {"kind":"textbox","id":"sh/25wzex4f","slide":4,"name":"text-38","text":"조직개편·이동·배치 기간을 기록해\n과거 시점과 변화 원인을 재현","textPreview":"조직개편·이동·배치 기간을 기록해 | 과거 시점과 변화 원인을 재현","textChars":35,"textLines":2,"bbox":[42,495,568,140]}
 {"kind":"textbox","id":"sh/8juxk72t","slide":4,"name":"text-39","text":"품질과 갱신 관리","textPreview":"품질과 갱신 관리","textChars":9,"textLines":1,"bbox":[658,428,580,48]}
 {"kind":"textbox","id":"sh/9k3ytsje","slide":4,"name":"text-40","text":"누락·중복·투입률을 검증하고\n데이터별 갱신 기준과 책임자 지정","textPreview":"누락·중복·투입률을 검증하고 | 데이터별 갱신 기준과 책임자 지정","textChars":34,"textLines":2,"bbox":[658,495,580,140]}
-{"kind":"notes","id":"nt/5hwyyh","slide":4,"text":"\n[Sources]\nStrategic_Workforce_Intelligence_Platform_Design.md — 2.3, 4, 11, 15\n[/Sources]"}
+{"kind":"notes","id":"nt/5hwyyh","slide":4,"text":"\n[Sources]\ndesign.md — 2.3, 4, 11, 15\n[/Sources]"}
 {"kind":"slide","id":"sl/lvotxa","slide":5,"title":"사람과 과제의 관계를 공통 언어로 정의합니다","textShapes":7}
 {"kind":"textbox","id":"sh/cbq94vqt","slide":5,"name":"text-41","text":"사람과 과제의 관계를 공통 언어로 정의합니다","textPreview":"사람과 과제의 관계를 공통 언어로 정의합니다","textChars":24,"textLines":1,"bbox":[42,40,1196,82]}
 {"kind":"textbox","id":"sh/bax8bq98","slide":5,"name":"text-42","text":"04  Semantic Layer","textPreview":"04  Semantic Layer","textChars":18,"textLines":1,"bbox":[42,663,1100,29]}
@@ -63,7 +63,7 @@
 {"kind":"textbox","id":"sh/o76p0bqx","slide":5,"name":"text-45","text":"소속 조직 · 직무 · 거점\n보유 역량 · 경력 · 근태\n참여 과제 · 투입 기간 · 원가","textPreview":"소속 조직 · 직무 · 거점 | 보유 역량 · 경력 · 근태 | 참여 과제 · 투입 기간 · 원가","textChars":50,"textLines":3,"bbox":[42,289,568,140]}
 {"kind":"textbox","id":"sh/3mx8769c","slide":5,"name":"text-46","text":"과제를 중심으로 연결","textPreview":"과제를 중심으로 연결","textChars":11,"textLines":1,"bbox":[658,222,580,48]}
 {"kind":"textbox","id":"sh/2lo7yl8r","slide":5,"name":"text-47","text":"제품 · 사업 우선순위 · 일정\n필요 역량 · 필요 Man month\n배치 인력 · 투입 계획 · 종료 시점","textPreview":"제품 · 사업 우선순위 · 일정 | 필요 역량 · 필요 Man month | 배치 인력 · 투입 계획 · 종료 시점","textChars":60,"textLines":3,"bbox":[658,289,580,140]}
-{"kind":"notes","id":"nt/lvotxa","slide":5,"text":"\n[Sources]\nStrategic_Workforce_Intelligence_Platform_Design.md — 5, 11, 15\n[/Sources]"}
+{"kind":"notes","id":"nt/lvotxa","slide":5,"text":"\n[Sources]\ndesign.md — 5, 11, 15\n[/Sources]"}
 {"kind":"slide","id":"sl/vs0c8l","slide":6,"title":"투입 규모는 기간별 Man month로 관리합니다","textShapes":9}
 {"kind":"textbox","id":"sh/kbqlob6d","slide":6,"name":"text-48","text":"투입 규모는 기간별 Man month로 관리합니다","textPreview":"투입 규모는 기간별 Man month로 관리합니다","textChars":27,"textLines":1,"bbox":[42,40,1196,82]}
 {"kind":"textbox","id":"sh/zah4vq58","slide":6,"name":"text-49","text":"05  인력 투입 기준","textPreview":"05  인력 투입 기준","textChars":12,"textLines":1,"bbox":[42,663,1100,29]}
@@ -74,7 +74,7 @@
 {"kind":"textbox","id":"sh/a5o3i1ob","slide":6,"name":"text-54","text":"예시 · 동일 인력 1명, 3개월","textPreview":"예시 · 동일 인력 1명, 3개월","textChars":18,"textLines":1,"bbox":[658,277,580,48]}
 {"kind":"textbox","id":"sh/h4jm50n6","slide":6,"name":"text-55","text":"과제 A   50% × 3개월 = 1.5 Man month\n과제 B   30% × 3개월 = 0.9 Man month\n공통업무 20% × 3개월 = 0.6 Man month","textPreview":"과제 A   50% × 3개월 = 1.5 Man month | 과제 B   30% × 3개월 = 0.9 Man month | 공통업무 20% × 3개월 = 0.6 Man month","textChars":96,"textLines":3,"bbox":[658,344,580,140]}
 {"kind":"textbox","id":"sh/w3a5wvml","slide":6,"name":"text-56","text":"인원수 1명  /  3개월 총 투입량 3.0 Man month","textPreview":"인원수 1명  /  3개월 총 투입량 3.0 Man month","textChars":34,"textLines":1,"bbox":[42,563,1196,59]}
-{"kind":"notes","id":"nt/vs0c8l","slide":6,"text":"Man month는 기간 누적 투입량이다. 아래는 설명용 예시이며 회사의 월 기준시간, 부분월, 휴가·초과근무 반영 정책은 별도 확정한다. 계획값과 실적값은 구분한다.\n[Sources]\nStrategic_Workforce_Intelligence_Platform_Design.md — 2.2, 11, 15; 사용자 용어 지침\n[/Sources]"}
+{"kind":"notes","id":"nt/vs0c8l","slide":6,"text":"Man month는 기간 누적 투입량이다. 아래는 설명용 예시이며 회사의 월 기준시간, 부분월, 휴가·초과근무 반영 정책은 별도 확정한다. 계획값과 실적값은 구분한다.\n[Sources]\ndesign.md — 2.2, 11, 15; 사용자 용어 지침\n[/Sources]"}
 {"kind":"slide","id":"sl/rj8g0e","slide":7,"title":"분석 역량은 현황에서 배치 최적화로 확장합니다","textShapes":13}
 {"kind":"textbox","id":"sh/gjy1s7e9","slide":7,"name":"text-57","text":"분석 역량은 현황에서 배치 최적화로 확장합니다","textPreview":"분석 역량은 현황에서 배치 최적화로 확장합니다","textChars":25,"textLines":1,"bbox":[42,40,1196,82]}
 {"kind":"textbox","id":"sh/vip0j2do","slide":7,"name":"text-58","text":"06  분석·추론 체계","textPreview":"06  분석·추론 체계","textChars":12,"textLines":1,"bbox":[42,663,1100,29]}
@@ -94,7 +94,7 @@
 {"kind":"shape","id":"sh/8b6pkvu1","slide":7,"bbox":[42,518,1196,1]}
 {"kind":"textbox","id":"sh/9wf6tgvm","slide":7,"name":"text-68","text":"05  배치 최적화","textPreview":"05  배치 최적화","textChars":10,"textLines":1,"bbox":[52,538,264,48]}
 {"kind":"textbox","id":"sh/q587u5cf","slide":7,"name":"text-69","text":"역량·시기·거점 등 제약을 고려한 재배치 대안 제시","textPreview":"역량·시기·거점 등 제약을 고려한 재배치 대안 제시","textChars":28,"textLines":1,"bbox":[337,538,884,55]}
-{"kind":"notes","id":"nt/rj8g0e","slide":7,"text":"\n[Sources]\nStrategic_Workforce_Intelligence_Platform_Design.md — 6–8\n[/Sources]"}
+{"kind":"notes","id":"nt/rj8g0e","slide":7,"text":"\n[Sources]\ndesign.md — 6–8\n[/Sources]"}
 {"kind":"slide","id":"sl/74hjfq","slide":8,"title":"AI는 승인된 지표로 조회하고 근거를 설명합니다","textShapes":11}
 {"kind":"textbox","id":"sh/6xk3a9gz","slide":8,"name":"text-70","text":"AI는 승인된 지표로 조회하고 근거를 설명합니다","textPreview":"AI는 승인된 지표로 조회하고 근거를 설명합니다","textChars":26,"textLines":1,"bbox":[42,40,1196,82]}
 {"kind":"textbox","id":"sh/t0b254za","slide":8,"name":"text-71","text":"07  Workforce AI","textPreview":"07  Workforce AI","textChars":16,"textLines":1,"bbox":[42,663,1100,29]}
@@ -107,7 +107,7 @@
 {"kind":"textbox","id":"sh/ip43itg7","slide":8,"name":"text-78","text":"계산과 설명","textPreview":"계산과 설명","textChars":6,"textLines":1,"bbox":[864,315,374,48]}
 {"kind":"textbox","id":"sh/g3y14fqx","slide":8,"name":"text-79","text":"증감·기여도 계산 후 근거 제시","textPreview":"증감·기여도 계산 후 근거 제시","textChars":17,"textLines":1,"bbox":[864,382,374,140]}
 {"kind":"textbox","id":"sh/h472xk72","slide":8,"name":"text-80","text":"답변에 기준 시점 · 지표 정의 · 데이터 출처 · 추정 가정을 함께 표시","textPreview":"답변에 기준 시점 · 지표 정의 · 데이터 출처 · 추정 가정을 함께 표시","textChars":41,"textLines":1,"bbox":[42,580,1196,50]}
-{"kind":"notes","id":"nt/74hjfq","slide":8,"text":"원인 설명은 검증 가능한 이동·투입 기록에 기반한다. 상관관계만으로 인과를 단정하지 않고 추정과 확인된 사실을 구분한다.\n[Sources]\nStrategic_Workforce_Intelligence_Platform_Design.md — 7, 13, 14\n[/Sources]"}
+{"kind":"notes","id":"nt/74hjfq","slide":8,"text":"원인 설명은 검증 가능한 이동·투입 기록에 기반한다. 상관관계만으로 인과를 단정하지 않고 추정과 확인된 사실을 구분한다.\n[Sources]\ndesign.md — 7, 13, 14\n[/Sources]"}
 {"kind":"slide","id":"sl/bs5nll","slide":9,"title":"시나리오별 사업 영향과 실행 대안을 비교합니다","textShapes":10}
 {"kind":"textbox","id":"sh/65gbedo7","slide":9,"name":"text-81","text":"시나리오별 사업 영향과 실행 대안을 비교합니다","textPreview":"시나리오별 사업 영향과 실행 대안을 비교합니다","textChars":25,"textLines":1,"bbox":[42,40,1196,82]}
 {"kind":"textbox","id":"sh/tsrapsny","slide":9,"name":"text-82","text":"08  시뮬레이션","textPreview":"08  시뮬레이션","textChars":9,"textLines":1,"bbox":[42,663,1100,29]}
@@ -119,7 +119,7 @@
 {"kind":"textbox","id":"sh/3ytsv250","slide":9,"name":"text-88","text":"AI 과제 30% 확대 시\n역량별 필요 Man month와\n충원 방식 비교","textPreview":"AI 과제 30% 확대 시 | 역량별 필요 Man month와 | 충원 방식 비교","textChars":41,"textLines":3,"bbox":[453,402,374,140]}
 {"kind":"textbox","id":"sh/ixkbmxof","slide":9,"name":"text-89","text":"과제 일정 지연","textPreview":"과제 일정 지연","textChars":8,"textLines":1,"bbox":[864,335,374,48]}
 {"kind":"textbox","id":"sh/432l4nu5","slide":9,"name":"text-90","text":"과제 3개월 지연 시\n후속 투입·재배치·원가에\n미치는 영향 확인","textPreview":"과제 3개월 지연 시 | 후속 투입·재배치·원가에 | 미치는 영향 확인","textChars":35,"textLines":3,"bbox":[864,402,374,140]}
-{"kind":"notes","id":"nt/bs5nll","slide":9,"text":"\n[Sources]\nStrategic_Workforce_Intelligence_Platform_Design.md — 8\n[/Sources]"}
+{"kind":"notes","id":"nt/bs5nll","slide":9,"text":"\n[Sources]\ndesign.md — 8\n[/Sources]"}
 {"kind":"slide","id":"sl/ymzeb8","slide":10,"title":"종료 과제의 여력을 신규 과제와 연결합니다","textShapes":14}
 {"kind":"textbox","id":"sh/5c3m1wry","slide":10,"name":"text-91","text":"종료 과제의 여력을 신규 과제와 연결합니다","textPreview":"종료 과제의 여력을 신규 과제와 연결합니다","textChars":23,"textLines":1,"bbox":[42,40,1196,82]}
 {"kind":"textbox","id":"sh/i9c36hs7","slide":10,"name":"text-92","text":"09  활용 사례 · 설명용 가정","textPreview":"09  활용 사례 · 설명용 가정","textChars":18,"textLines":1,"bbox":[42,663,1100,29]}
@@ -135,7 +135,7 @@
 {"kind":"textbox","id":"sh/3itc32dk","slide":10,"name":"text-102","text":"Man month 매칭","textPreview":"Man month 매칭","textChars":12,"textLines":1,"bbox":[864,384,374,48]}
 {"kind":"textbox","id":"sh/ih0buxcf","slide":10,"name":"text-103","text":"역량·일정 적합 인력 14명\n× 3개월 × 투입률 100%","textPreview":"역량·일정 적합 인력 14명 | × 3개월 × 투입률 100%","textChars":32,"textLines":2,"bbox":[864,449,374,91]}
 {"kind":"textbox","id":"sh/d8bu9wv2","slide":10,"name":"text-104","text":"남은 수요 12 Man month → 추가 내부 매칭·교육·채용 대안 검토","textPreview":"남은 수요 12 Man month → 추가 내부 매칭·교육·채용 대안 검토","textChars":41,"textLines":1,"bbox":[42,585,1196,50]}
-{"kind":"notes","id":"nt/ymzeb8","slide":10,"text":"아래 수치는 회사 실적이 아닌 설명용 가정이다. 같은 3개월 기간에 기존 과제 추가 투입 의무가 없고 역량·일정 매칭을 통과한다는 조건이다. 인원과 Man month는 직접 대체되지 않는다.\n[Sources]\nStrategic_Workforce_Intelligence_Platform_Design.md — 5.1, 6, 8; 기간 명시를 위해 재구성한 설명용 예시\n[/Sources]"}
+{"kind":"notes","id":"nt/ymzeb8","slide":10,"text":"아래 수치는 회사 실적이 아닌 설명용 가정이다. 같은 3개월 기간에 기존 과제 추가 투입 의무가 없고 역량·일정 매칭을 통과한다는 조건이다. 인원과 Man month는 직접 대체되지 않는다.\n[Sources]\ndesign.md — 5.1, 6, 8; 기간 명시를 위해 재구성한 설명용 예시\n[/Sources]"}
 {"kind":"slide","id":"sl/y4edjn","slide":11,"title":"화면은 리더의 질문과 의사결정 흐름에 맞춥니다","textShapes":13}
 {"kind":"textbox","id":"sh/i1wril43","slide":11,"name":"text-105","text":"화면은 리더의 질문과 의사결정 흐름에 맞춥니다","textPreview":"화면은 리더의 질문과 의사결정 흐름에 맞춥니다","textChars":25,"textLines":1,"bbox":[42,40,1196,82]}
 {"kind":"textbox","id":"sh/547qd03e","slide":11,"name":"text-106","text":"10  핵심 사용자 경험","textPreview":"10  핵심 사용자 경험","textChars":13,"textLines":1,"bbox":[42,663,1100,29]}
@@ -155,7 +155,7 @@
 {"kind":"shape","id":"sh/ydsbqx4b","slide":11,"bbox":[42,518,1196,1]}
 {"kind":"textbox","id":"sh/zelsz25w","slide":11,"name":"text-116","text":"자연어 질의","textPreview":"자연어 질의","textChars":6,"textLines":1,"bbox":[52,538,264,48]}
 {"kind":"textbox","id":"sh/kbet4rml","slide":11,"name":"text-117","text":"Ask Workforce AI: 질문 → 근거 확인 → 추가 분석","textPreview":"Ask Workforce AI: 질문 → 근거 확인 → 추가 분석","textChars":36,"textLines":1,"bbox":[337,538,884,55]}
-{"kind":"notes","id":"nt/y4edjn","slide":11,"text":"\n[Sources]\nStrategic_Workforce_Intelligence_Platform_Design.md — 9\n[/Sources]"}
+{"kind":"notes","id":"nt/y4edjn","slide":11,"text":"\n[Sources]\ndesign.md — 9\n[/Sources]"}
 {"kind":"slide","id":"sl/bahpxi","slide":12,"title":"권한·지표·추천 근거를 일관되게 통제합니다","textShapes":11}
 {"kind":"textbox","id":"sh/or614vel","slide":12,"name":"text-118","text":"권한·지표·추천 근거를 일관되게 통제합니다","textPreview":"권한·지표·추천 근거를 일관되게 통제합니다","textChars":23,"textLines":1,"bbox":[42,40,1196,82]}
 {"kind":"textbox","id":"sh/nqxkvqd0","slide":12,"name":"text-119","text":"11  보안 및 운영 원칙","textPreview":"11  보안 및 운영 원칙","textChars":14,"textLines":1,"bbox":[42,663,1100,29]}
@@ -168,7 +168,7 @@
 {"kind":"textbox","id":"sh/kjqlcfet","slide":12,"name":"text-126","text":"인원·Man month·이동·퇴사 정의 확정\n데이터 소유 부서가 품질과 변경 관리","textPreview":"인원·Man month·이동·퇴사 정의 확정 | 데이터 소유 부서가 품질과 변경 관리","textChars":45,"textLines":2,"bbox":[42,495,568,140]}
 {"kind":"textbox","id":"sh/61gv6lcb","slide":12,"name":"text-127","text":"판단은 리더가 승인","textPreview":"판단은 리더가 승인","textChars":10,"textLines":1,"bbox":[658,428,580,48]}
 {"kind":"textbox","id":"sh/72pczqtg","slide":12,"name":"text-128","text":"추천의 근거·가정·제약을 확인하고\n인력 배치 실행은 책임자가 결정","textPreview":"추천의 근거·가정·제약을 확인하고 | 인력 배치 실행은 책임자가 결정","textChars":36,"textLines":2,"bbox":[658,495,580,140]}
-{"kind":"notes","id":"nt/bahpxi","slide":12,"text":"\n[Sources]\nStrategic_Workforce_Intelligence_Platform_Design.md — 13–15; 승인·추적 원칙은 실행 설계 제안\n[/Sources]"}
+{"kind":"notes","id":"nt/bahpxi","slide":12,"text":"\n[Sources]\ndesign.md — 13–15; 승인·추적 원칙은 실행 설계 제안\n[/Sources]"}
 {"kind":"slide","id":"sl/lz8onu","slide":13,"title":"MVP부터 검증하며 기능과 데이터를 확장합니다","textShapes":14}
 {"kind":"textbox","id":"sh/wvul43a9","slide":13,"name":"text-129","text":"MVP부터 검증하며 기능과 데이터를 확장합니다","textPreview":"MVP부터 검증하며 기능과 데이터를 확장합니다","textChars":25,"textLines":1,"bbox":[42,40,1196,82]}
 {"kind":"textbox","id":"sh/bulkvy9o","slide":13,"name":"text-130","text":"12  단계별 구축","textPreview":"12  단계별 구축","textChars":10,"textLines":1,"bbox":[42,663,1100,29]}
@@ -189,7 +189,7 @@
 {"kind":"textbox","id":"sh/9k3eh8bq","slide":13,"name":"text-140","text":"5  최적화","textPreview":"5  최적화","textChars":6,"textLines":1,"bbox":[52,538,264,48]}
 {"kind":"textbox","id":"sh/2l8va9cv","slide":13,"name":"text-141","text":"시나리오 비교·역량 매칭·재배치 대안 제시","textPreview":"시나리오 비교·역량 매칭·재배치 대안 제시","textChars":23,"textLines":1,"bbox":[337,538,884,55]}
 {"kind":"textbox","id":"sh/3m1w3etg","slide":13,"name":"text-142","text":"MVP 권장: 6개 핵심 데이터 + 시점 이력 / 일정은 연계 가능성과 품질 확인 후 확정","textPreview":"MVP 권장: 6개 핵심 데이터 + 시점 이력 / 일정은 연계 가능성과 품질 확인 후 확정","textChars":50,"textLines":1,"bbox":[42,602,1196,42]}
-{"kind":"notes","id":"nt/lz8onu","slide":13,"text":"\n[Sources]\nStrategic_Workforce_Intelligence_Platform_Design.md — 16, 17\n[/Sources]"}
+{"kind":"notes","id":"nt/lz8onu","slide":13,"text":"\n[Sources]\ndesign.md — 16, 17\n[/Sources]"}
 {"kind":"slide","id":"sl/6zubhj","slide":14,"title":"착수 범위와 성공 기준을 먼저 확정합니다","textShapes":10}
 {"kind":"textbox","id":"sh/l4bytoze","slide":14,"name":"text-143","text":"착수 범위와 성공 기준을 먼저 확정합니다","textPreview":"착수 범위와 성공 기준을 먼저 확정합니다","textChars":22,"textLines":1,"bbox":[42,40,1196,82]}
 {"kind":"textbox","id":"sh/y1kfy903","slide":14,"name":"text-144","text":"13  리더 검토 사항","textPreview":"13  리더 검토 사항","textChars":12,"textLines":1,"bbox":[42,663,1100,29]}
@@ -201,4 +201,4 @@
 {"kind":"textbox","id":"sh/ovixszi1","slide":14,"name":"text-150","text":"HR·사업부·PM·IT의\n역할과 데이터 접근 범위,\nMan month 산정 기준 합의","textPreview":"HR·사업부·PM·IT의 | 역할과 데이터 접근 범위, | Man month 산정 기준 합의","textChars":47,"textLines":3,"bbox":[453,402,374,140]}
 {"kind":"textbox","id":"sh/9wryl4zm","slide":14,"name":"text-151","text":"MVP 검증 기준","textPreview":"MVP 검증 기준","textChars":9,"textLines":1,"bbox":[864,335,374,48]}
 {"kind":"textbox","id":"sh/hcfutcze","slide":14,"name":"text-152","text":"집계 일치도·조회 소요시간·\n투입계획 충실도·추천 검토율로\n확장 여부 판단","textPreview":"집계 일치도·조회 소요시간· | 투입계획 충실도·추천 검토율로 | 확장 여부 판단","textChars":41,"textLines":3,"bbox":[864,402,374,140]}
-{"kind":"notes","id":"nt/6zubhj","slide":14,"text":"\n[Sources]\nStrategic_Workforce_Intelligence_Platform_Design.md — 17–19, 22; 검증 지표는 제안\n[/Sources]"}
+{"kind":"notes","id":"nt/6zubhj","slide":14,"text":"\n[Sources]\ndesign.md — 17–19, 22; 검증 지표는 제안\n[/Sources]"}

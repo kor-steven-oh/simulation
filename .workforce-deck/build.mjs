@@ -1,14 +1,14 @@
 import fs from 'node:fs/promises';
 import { Presentation, PresentationFile } from '@oai/artifact-tool';
 const dir='/Users/steven/Projects/simulation/.workforce-deck';
-const output='/Users/steven/Projects/simulation/Strategic_Workforce_Leadership_Briefing.pptx';
+const output='/Users/steven/Projects/simulation/briefing.pptx';
 const p=Presentation.create({slideSize:{width:1280,height:720}});
 const C={ink:'#141414',muted:'#555B64',blue:'#1764C0',gray:'#EDEDED',rule:'#B8BCC4'};
 const boxes=[];
 function tx(s,text,x,y,w,h,size=28,bold=false,color=C.ink){const q=s.shapes.add({name:`text-${boxes.length}`,geometry:'textbox',position:{left:x,top:y,width:w,height:h},fill:'none',line:{fill:'none',width:0}});q.text=text;q.text.style={fontFamily:'Apple SD Gothic Neo',typeface:'Apple SD Gothic Neo',fontSize:size,bold,color,autoFit:'none',verticalAlignment:'top',insets:{left:0,right:0,top:0,bottom:0}};boxes.push({slide:p.slides.items.length,text,x,y,w,h});return q;}
 function rect(s,x,y,w,h,fill=C.gray){return s.shapes.add({geometry:'rect',position:{left:x,top:y,width:w,height:h},fill,line:{fill:'none',width:0}});}
 function line(s,x,y,w){rect(s,x,y,w,1,C.rule);}
-function slide(title,section,source,extra=''){let s=p.slides.add();s.background.fill='#FFFFFF';tx(s,title,42,40,1196,82,48,true);tx(s,section,42,663,1100,29,22,false,C.muted);tx(s,String(p.slides.items.length).padStart(2,'0'),1180,660,58,32,22,false,C.muted);s.speakerNotes.textFrame.setText(`${extra}\n[Sources]\nStrategic_Workforce_Intelligence_Platform_Design.md — ${source}\n[/Sources]`);return s;}
+function slide(title,section,source,extra=''){let s=p.slides.add();s.background.fill='#FFFFFF';tx(s,title,42,40,1196,82,48,true);tx(s,section,42,663,1100,29,22,false,C.muted);tx(s,String(p.slides.items.length).padStart(2,'0'),1180,660,58,32,22,false,C.muted);s.speakerNotes.textFrame.setText(`${extra}\n[Sources]\ndesign.md — ${source}\n[/Sources]`);return s;}
 function pair(s,x,y,w,heading,body){tx(s,heading,x,y,w,48,34,true);tx(s,body,x,y+67,w,140,28,false,C.muted);}
 function cols(title,section,items,source,intro=''){let s=slide(title,section,source);if(intro)tx(s,intro,42,158,1196,105,32,false,C.muted);items.forEach((a,i)=>pair(s,42+i*411,335,374,a[0],a[1]));return s;}
 function two(title,section,a,b,source){let s=slide(title,section,source);pair(s,42,222,568,...a);pair(s,658,222,580,...b);return s;}
@@ -18,7 +18,7 @@ function rows(title,section,items,source,foot=''){let s=slide(title,section,sour
 let s=p.slides.add();s.background.fill='#FFFFFF';tx(s,'리더 보고 · 시스템 구축 구상',42,42,1196,50,32);
 tx(s,'전략적 인력운영\n인텔리전스 플랫폼',42,185,1196,230,76,true);
 tx(s,'사람·업무·사업계획을 연결하는\n전사 인력 의사결정 체계',42,498,1196,112,36,false,C.muted);
-s.speakerNotes.textFrame.setText('[Sources]\nStrategic_Workforce_Intelligence_Platform_Design.md — 0, 1, 21\n[/Sources]');
+s.speakerNotes.textFrame.setText('[Sources]\ndesign.md — 0, 1, 21\n[/Sources]');
 }
 cols('인력 의사결정에 필요한 근거를 연결합니다','01  추진 목적',[
 ['현재를 이해','어디에 누가 배치되어\n어떤 일을 수행하는지\n동일한 기준으로 파악'],
@@ -98,7 +98,7 @@ cols('착수 범위와 성공 기준을 먼저 확정합니다','13  리더 검�
 ['데이터와 책임','HR·사업부·PM·IT의\n역할과 데이터 접근 범위,\nMan month 산정 기준 합의'],
 ['MVP 검증 기준','집계 일치도·조회 소요시간·\n투입계획 충실도·추천 검토율로\n확장 여부 판단']], '17–19, 22; 검증 지표는 제안','요청: MVP 상세 설계 착수  ·  범위·데이터 품질 확인 후 일정과 예산 산정');
 await fs.mkdir(dir+'/renders',{recursive:true});
-await fs.writeFile(dir+'/source-notes.txt','Source: /Users/steven/Projects/simulation/Strategic_Workforce_Intelligence_Platform_Design.md\nNo external claims/assets. Examples explicitly hypothetical. Man month requires defined period.\nVisual reference: Codex Grid 01,03,05,06,13,15,17; native architecture diagram adapted to full-width evidence region.');
+await fs.writeFile(dir+'/source-notes.txt','Source: /Users/steven/Projects/simulation/design.md\nNo external claims/assets. Examples explicitly hypothetical. Man month requires defined period.\nVisual reference: Codex Grid 01,03,05,06,13,15,17; native architecture diagram adapted to full-width evidence region.');
 await fs.writeFile(dir+'/boxes.json',JSON.stringify(boxes,null,2));
 const deck=await PresentationFile.exportPptx(p);await deck.save(output);
 for(let i=0;i<p.slides.items.length;i++){const s=p.slides.items[i];await fs.writeFile(`${dir}/renders/slide-${String(i+1).padStart(2,'0')}.png`,new Uint8Array(await (await p.export({slide:s,format:'png',scale:1})).arrayBuffer()));await fs.writeFile(`${dir}/renders/slide-${i+1}.json`,await (await s.export({format:'layout'})).text());console.log('rendered',i+1);}
