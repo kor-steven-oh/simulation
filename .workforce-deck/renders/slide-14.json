@@ -1,0 +1,855 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/6zubhj",
+    "id": "6zubhj",
+    "slide": 14,
+    "layoutId": "1eb48992-fce6-4e88-97dc-c25b54c3b63c",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "1cc30653-bfd7-4f3d-97fa-9427bf44f66d",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Apple SD Gothic Neo"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "1eb48992-fce6-4e88-97dc-c25b54c3b63c",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "1cc30653-bfd7-4f3d-97fa-9427bf44f66d",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "1cc30653-bfd7-4f3d-97fa-9427bf44f66d",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l4bytoze",
+      "id": "1",
+      "name": "text-143",
+      "bbox": [
+        42,
+        40,
+        1196,
+        82
+      ],
+      "geometry": "rect",
+      "text": "착수 범위와 성공 기준을 먼저 확정합니다",
+      "textPreview": "착수 범위와 성공 기준을 먼저 확정합니다",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "착수 범위와 성공 기준을 먼저 확정합니다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "착수 범위와 성공 기준을 먼저 확정합니다",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "착수 범위와 성공 기준을 먼저 확정합니다",
+              "fontSize": 48,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/y1kfy903",
+      "id": "2",
+      "name": "text-144",
+      "bbox": [
+        42,
+        663,
+        1100,
+        29
+      ],
+      "geometry": "rect",
+      "text": "13  리더 검토 사항",
+      "textPreview": "13  리더 검토 사항",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "13  리더 검토 사항"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "13  리더 검토 사항",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "13  리더 검토 사항",
+              "fontSize": 22,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/j2tgreho",
+      "id": "3",
+      "name": "text-145",
+      "bbox": [
+        1180,
+        660,
+        58,
+        32
+      ],
+      "geometry": "rect",
+      "text": "14",
+      "textPreview": "14",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "14"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "14",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "14",
+              "fontSize": 22,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8rmh43i5",
+      "id": "4",
+      "name": "text-146",
+      "bbox": [
+        42,
+        158,
+        1196,
+        105
+      ],
+      "geometry": "rect",
+      "text": "요청: MVP 상세 설계 착수  ·  범위·데이터 품질 확인 후 일정과 예산 산정",
+      "textPreview": "요청: MVP 상세 설계 착수  ·  범위·데이터 품질 확인 후 일정과 예산 산정",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 32,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "요청: MVP 상세 설계 착수  ·  범위·데이터 품질 확인 후 일정과 예산 산정"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "요청: MVP 상세 설계 착수  ·  범위·데이터 품질 확인 후 일정과 예산 산정",
+          "resolvedTextStyle": {
+            "fontSize": 32,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "요청: MVP 상세 설계 착수  ·  범위·데이터 품질 확인 후 일정과 예산 산정",
+              "fontSize": 32,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsvyx8zq",
+      "id": "5",
+      "name": "text-147",
+      "bbox": [
+        42,
+        335,
+        374,
+        48
+      ],
+      "geometry": "rect",
+      "text": "우선 의사결정",
+      "textPreview": "우선 의사결정",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "우선 의사결정"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "우선 의사결정",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "우선 의사결정",
+              "fontSize": 34,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65kz2t0z",
+      "id": "6",
+      "name": "text-148",
+      "bbox": [
+        42,
+        402,
+        374,
+        140
+      ],
+      "geometry": "rect",
+      "text": "시범 조직·과제를 선정하고\n인력배치·충원·재배치 중\n우선 검증 질문을 확정",
+      "textPreview": "시범 조직·과제를 선정하고 | 인력배치·충원·재배치 중 | 우선 검증 질문을 확정",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "시범 조직·과제를 선정하고"
+          },
+          {
+            "index": 2,
+            "text": "인력배치·충원·재배치 중"
+          },
+          {
+            "index": 3,
+            "text": "우선 검증 질문을 확정"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "시범 조직·과제를 선정하고",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "시범 조직·과제를 선정하고",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "인력배치·충원·재배치 중",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "인력배치·충원·재배치 중",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "우선 검증 질문을 확정",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "우선 검증 질문을 확정",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7qtgvyhk",
+      "id": "7",
+      "name": "text-149",
+      "bbox": [
+        453,
+        335,
+        374,
+        48
+      ],
+      "geometry": "rect",
+      "text": "데이터와 책임",
+      "textPreview": "데이터와 책임",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "데이터와 책임"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "데이터와 책임",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "데이터와 책임",
+              "fontSize": 34,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ovixszi1",
+      "id": "8",
+      "name": "text-150",
+      "bbox": [
+        453,
+        402,
+        374,
+        140
+      ],
+      "geometry": "rect",
+      "text": "HR·사업부·PM·IT의\n역할과 데이터 접근 범위,\nMan month 산정 기준 합의",
+      "textPreview": "HR·사업부·PM·IT의 | 역할과 데이터 접근 범위, | Man month 산정 기준 합의",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "HR·사업부·PM·IT의"
+          },
+          {
+            "index": 2,
+            "text": "역할과 데이터 접근 범위,"
+          },
+          {
+            "index": 3,
+            "text": "Man month 산정 기준 합의"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "HR·사업부·PM·IT의",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "HR·사업부·PM·IT의",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "역할과 데이터 접근 범위,",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "역할과 데이터 접근 범위,",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "Man month 산정 기준 합의",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "Man month 산정 기준 합의",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9wryl4zm",
+      "id": "9",
+      "name": "text-151",
+      "bbox": [
+        864,
+        335,
+        374,
+        48
+      ],
+      "geometry": "rect",
+      "text": "MVP 검증 기준",
+      "textPreview": "MVP 검증 기준",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MVP 검증 기준"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MVP 검증 기준",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MVP 검증 기준",
+              "fontSize": 34,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hcfutcze",
+      "id": "10",
+      "name": "text-152",
+      "bbox": [
+        864,
+        402,
+        374,
+        140
+      ],
+      "geometry": "rect",
+      "text": "집계 일치도·조회 소요시간·\n투입계획 충실도·추천 검토율로\n확장 여부 판단",
+      "textPreview": "집계 일치도·조회 소요시간· | 투입계획 충실도·추천 검토율로 | 확장 여부 판단",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "집계 일치도·조회 소요시간·"
+          },
+          {
+            "index": 2,
+            "text": "투입계획 충실도·추천 검토율로"
+          },
+          {
+            "index": 3,
+            "text": "확장 여부 판단"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "집계 일치도·조회 소요시간·",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "집계 일치도·조회 소요시간·",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "투입계획 충실도·추천 검토율로",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "투입계획 충실도·추천 검토율로",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "확장 여부 판단",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "확장 여부 판단",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

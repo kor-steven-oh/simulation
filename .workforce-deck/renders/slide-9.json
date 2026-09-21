@@ -1,0 +1,855 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/bs5nll",
+    "id": "bs5nll",
+    "slide": 9,
+    "layoutId": "1eb48992-fce6-4e88-97dc-c25b54c3b63c",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "1cc30653-bfd7-4f3d-97fa-9427bf44f66d",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Apple SD Gothic Neo"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "1eb48992-fce6-4e88-97dc-c25b54c3b63c",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "1cc30653-bfd7-4f3d-97fa-9427bf44f66d",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "1cc30653-bfd7-4f3d-97fa-9427bf44f66d",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/65gbedo7",
+      "id": "1",
+      "name": "text-81",
+      "bbox": [
+        42,
+        40,
+        1196,
+        82
+      ],
+      "geometry": "rect",
+      "text": "시나리오별 사업 영향과 실행 대안을 비교합니다",
+      "textPreview": "시나리오별 사업 영향과 실행 대안을 비교합니다",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "시나리오별 사업 영향과 실행 대안을 비교합니다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "시나리오별 사업 영향과 실행 대안을 비교합니다",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "시나리오별 사업 영향과 실행 대안을 비교합니다",
+              "fontSize": 48,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tsrapsny",
+      "id": "2",
+      "name": "text-82",
+      "bbox": [
+        42,
+        663,
+        1100,
+        29
+      ],
+      "geometry": "rect",
+      "text": "08  시뮬레이션",
+      "textPreview": "08  시뮬레이션",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "08  시뮬레이션"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "08  시뮬레이션",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "08  시뮬레이션",
+              "fontSize": 22,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/87itgn6d",
+      "id": "3",
+      "name": "text-83",
+      "bbox": [
+        1180,
+        660,
+        58,
+        32
+      ],
+      "geometry": "rect",
+      "text": "09",
+      "textPreview": "09",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "09",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "09",
+              "fontSize": 22,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vu9sr254",
+      "id": "4",
+      "name": "text-84",
+      "bbox": [
+        42,
+        158,
+        1196,
+        105
+      ],
+      "geometry": "rect",
+      "text": "입력: 규모·일정·우선순위  →  산출: 역량별 부족량·원가·일정 위험",
+      "textPreview": "입력: 규모·일정·우선순위  →  산출: 역량별 부족량·원가·일정 위험",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 32,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "입력: 규모·일정·우선순위  →  산출: 역량별 부족량·원가·일정 위험"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "입력: 규모·일정·우선순위  →  산출: 역량별 부족량·원가·일정 위험",
+          "resolvedTextStyle": {
+            "fontSize": 32,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "입력: 규모·일정·우선순위  →  산출: 역량별 부족량·원가·일정 위험",
+              "fontSize": 32,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ut0bixoj",
+      "id": "5",
+      "name": "text-85",
+      "bbox": [
+        42,
+        335,
+        374,
+        48
+      ],
+      "geometry": "rect",
+      "text": "인력 규모 조정",
+      "textPreview": "인력 규모 조정",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "인력 규모 조정"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "인력 규모 조정",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "인력 규모 조정",
+              "fontSize": 34,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/hwratsnu",
+      "id": "6",
+      "name": "text-86",
+      "bbox": [
+        42,
+        402,
+        374,
+        140
+      ],
+      "geometry": "rect",
+      "text": "인원 3% 감소 시\n기간별 공급 감소와\n과제 일정 위험 비교",
+      "textPreview": "인원 3% 감소 시 | 기간별 공급 감소와 | 과제 일정 위험 비교",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "인원 3% 감소 시"
+          },
+          {
+            "index": 2,
+            "text": "기간별 공급 감소와"
+          },
+          {
+            "index": 3,
+            "text": "과제 일정 위험 비교"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "인원 3% 감소 시",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "인원 3% 감소 시",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "기간별 공급 감소와",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "기간별 공급 감소와",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "과제 일정 위험 비교",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "과제 일정 위험 비교",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gvitkn69",
+      "id": "7",
+      "name": "text-87",
+      "bbox": [
+        453,
+        335,
+        374,
+        48
+      ],
+      "geometry": "rect",
+      "text": "AI 과제 확대",
+      "textPreview": "AI 과제 확대",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "AI 과제 확대"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "AI 과제 확대",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "AI 과제 확대",
+              "fontSize": 34,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3ytsv250",
+      "id": "8",
+      "name": "text-88",
+      "bbox": [
+        453,
+        402,
+        374,
+        140
+      ],
+      "geometry": "rect",
+      "text": "AI 과제 30% 확대 시\n역량별 필요 Man month와\n충원 방식 비교",
+      "textPreview": "AI 과제 30% 확대 시 | 역량별 필요 Man month와 | 충원 방식 비교",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "AI 과제 30% 확대 시"
+          },
+          {
+            "index": 2,
+            "text": "역량별 필요 Man month와"
+          },
+          {
+            "index": 3,
+            "text": "충원 방식 비교"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "AI 과제 30% 확대 시",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "AI 과제 30% 확대 시",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "역량별 필요 Man month와",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "역량별 필요 Man month와",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "충원 방식 비교",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "충원 방식 비교",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ixkbmxof",
+      "id": "9",
+      "name": "text-89",
+      "bbox": [
+        864,
+        335,
+        374,
+        48
+      ],
+      "geometry": "rect",
+      "text": "과제 일정 지연",
+      "textPreview": "과제 일정 지연",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "과제 일정 지연"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "과제 일정 지연",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "과제 일정 지연",
+              "fontSize": 34,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/432l4nu5",
+      "id": "10",
+      "name": "text-90",
+      "bbox": [
+        864,
+        402,
+        374,
+        140
+      ],
+      "geometry": "rect",
+      "text": "과제 3개월 지연 시\n후속 투입·재배치·원가에\n미치는 영향 확인",
+      "textPreview": "과제 3개월 지연 시 | 후속 투입·재배치·원가에 | 미치는 영향 확인",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "과제 3개월 지연 시"
+          },
+          {
+            "index": 2,
+            "text": "후속 투입·재배치·원가에"
+          },
+          {
+            "index": 3,
+            "text": "미치는 영향 확인"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "과제 3개월 지연 시",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "과제 3개월 지연 시",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "후속 투입·재배치·원가에",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "후속 투입·재배치·원가에",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "미치는 영향 확인",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "미치는 영향 확인",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

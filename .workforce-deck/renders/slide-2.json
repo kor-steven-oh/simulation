@@ -1,0 +1,855 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/qqlp3c",
+    "id": "qqlp3c",
+    "slide": 2,
+    "layoutId": "1eb48992-fce6-4e88-97dc-c25b54c3b63c",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "1cc30653-bfd7-4f3d-97fa-9427bf44f66d",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Apple SD Gothic Neo"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "1eb48992-fce6-4e88-97dc-c25b54c3b63c",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "1cc30653-bfd7-4f3d-97fa-9427bf44f66d",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "1cc30653-bfd7-4f3d-97fa-9427bf44f66d",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/il8rep47",
+      "id": "1",
+      "name": "text-3",
+      "bbox": [
+        42,
+        40,
+        1196,
+        82
+      ],
+      "geometry": "rect",
+      "text": "인력 의사결정에 필요한 근거를 연결합니다",
+      "textPreview": "인력 의사결정에 필요한 근거를 연결합니다",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "인력 의사결정에 필요한 근거를 연결합니다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "인력 의사결정에 필요한 근거를 연결합니다",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "인력 의사결정에 필요한 근거를 연결합니다",
+              "fontSize": 48,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/5ojap4ni",
+      "id": "2",
+      "name": "text-4",
+      "bbox": [
+        42,
+        663,
+        1100,
+        29
+      ],
+      "geometry": "rect",
+      "text": "01  추진 목적",
+      "textPreview": "01  추진 목적",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "01  추진 목적"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "01  추진 목적",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "01  추진 목적",
+              "fontSize": 22,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/4na9gzmx",
+      "id": "3",
+      "name": "text-5",
+      "bbox": [
+        1180,
+        660,
+        58,
+        32
+      ],
+      "geometry": "rect",
+      "text": "02",
+      "textPreview": "02",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "02"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "02",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "02",
+              "fontSize": 22,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/rq1sre5o",
+      "id": "4",
+      "name": "text-6",
+      "bbox": [
+        42,
+        158,
+        1196,
+        105
+      ],
+      "geometry": "rect",
+      "text": "핵심 질문: 앞으로 어떤 인력이 필요하며, 어디에 배치해야 하는가?",
+      "textPreview": "핵심 질문: 앞으로 어떤 인력이 필요하며, 어디에 배치해야 하는가?",
+      "resolvedFontSize": 32,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 32,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "핵심 질문: 앞으로 어떤 인력이 필요하며, 어디에 배치해야 하는가?"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "핵심 질문: 앞으로 어떤 인력이 필요하며, 어디에 배치해야 하는가?",
+          "resolvedTextStyle": {
+            "fontSize": 32,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "핵심 질문: 앞으로 어떤 인력이 필요하며, 어디에 배치해야 하는가?",
+              "fontSize": 32,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/qpsri943",
+      "id": "5",
+      "name": "text-7",
+      "bbox": [
+        42,
+        335,
+        374,
+        48
+      ],
+      "geometry": "rect",
+      "text": "현재를 이해",
+      "textPreview": "현재를 이해",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "현재를 이해"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "현재를 이해",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "현재를 이해",
+              "fontSize": 34,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsjatonu",
+      "id": "6",
+      "name": "text-8",
+      "bbox": [
+        42,
+        402,
+        374,
+        140
+      ],
+      "geometry": "rect",
+      "text": "어디에 누가 배치되어\n어떤 일을 수행하는지\n동일한 기준으로 파악",
+      "textPreview": "어디에 누가 배치되어 | 어떤 일을 수행하는지 | 동일한 기준으로 파악",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "어디에 누가 배치되어"
+          },
+          {
+            "index": 2,
+            "text": "어떤 일을 수행하는지"
+          },
+          {
+            "index": 3,
+            "text": "동일한 기준으로 파악"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "어디에 누가 배치되어",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "어디에 누가 배치되어",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "어떤 일을 수행하는지",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "어떤 일을 수행하는지",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "동일한 기준으로 파악",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "동일한 기준으로 파악",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sra9kjm9",
+      "id": "7",
+      "name": "text-9",
+      "bbox": [
+        453,
+        335,
+        374,
+        48
+      ],
+      "geometry": "rect",
+      "text": "미래를 준비",
+      "textPreview": "미래를 준비",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "미래를 준비"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "미래를 준비",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "미래를 준비",
+              "fontSize": 34,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ux8fa5k",
+      "id": "8",
+      "name": "text-10",
+      "bbox": [
+        453,
+        402,
+        374,
+        140
+      ],
+      "geometry": "rect",
+      "text": "사업·과제 계획에 따른\n역량과 Man month 수요를\n가용 공급과 비교",
+      "textPreview": "사업·과제 계획에 따른 | 역량과 Man month 수요를 | 가용 공급과 비교",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "사업·과제 계획에 따른"
+          },
+          {
+            "index": 2,
+            "text": "역량과 Man month 수요를"
+          },
+          {
+            "index": 3,
+            "text": "가용 공급과 비교"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "사업·과제 계획에 따른",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "사업·과제 계획에 따른",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "역량과 Man month 수요를",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "역량과 Man month 수요를",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "가용 공급과 비교",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "가용 공급과 비교",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6tor654z",
+      "id": "9",
+      "name": "text-11",
+      "bbox": [
+        864,
+        335,
+        374,
+        48
+      ],
+      "geometry": "rect",
+      "text": "대안을 비교",
+      "textPreview": "대안을 비교",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "대안을 비교"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "대안을 비교",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "대안을 비교",
+              "fontSize": 34,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0redsfal",
+      "id": "10",
+      "name": "text-12",
+      "bbox": [
+        864,
+        402,
+        374,
+        140
+      ],
+      "geometry": "rect",
+      "text": "내부 재배치와 채용의\n일정·원가·사업 영향을\n함께 검토",
+      "textPreview": "내부 재배치와 채용의 | 일정·원가·사업 영향을 | 함께 검토",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "내부 재배치와 채용의"
+          },
+          {
+            "index": 2,
+            "text": "일정·원가·사업 영향을"
+          },
+          {
+            "index": 3,
+            "text": "함께 검토"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "내부 재배치와 채용의",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "내부 재배치와 채용의",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "일정·원가·사업 영향을",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "일정·원가·사업 영향을",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "함께 검토",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "함께 검토",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

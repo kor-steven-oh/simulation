@@ -1,0 +1,784 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/74hjfq",
+    "id": "74hjfq",
+    "slide": 8,
+    "layoutId": "1eb48992-fce6-4e88-97dc-c25b54c3b63c",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "1cc30653-bfd7-4f3d-97fa-9427bf44f66d",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Apple SD Gothic Neo"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "1eb48992-fce6-4e88-97dc-c25b54c3b63c",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "1cc30653-bfd7-4f3d-97fa-9427bf44f66d",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "1cc30653-bfd7-4f3d-97fa-9427bf44f66d",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6xk3a9gz",
+      "id": "1",
+      "name": "text-70",
+      "bbox": [
+        42,
+        40,
+        1196,
+        82
+      ],
+      "geometry": "rect",
+      "text": "AI는 승인된 지표로 조회하고 근거를 설명합니다",
+      "textPreview": "AI는 승인된 지표로 조회하고 근거를 설명합니다",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "AI는 승인된 지표로 조회하고 근거를 설명합니다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "AI는 승인된 지표로 조회하고 근거를 설명합니다",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "AI는 승인된 지표로 조회하고 근거를 설명합니다",
+              "fontSize": 48,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/t0b254za",
+      "id": "2",
+      "name": "text-71",
+      "bbox": [
+        42,
+        663,
+        1100,
+        29
+      ],
+      "geometry": "rect",
+      "text": "07  Workforce AI",
+      "textPreview": "07  Workforce AI",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "07  Workforce AI"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "07  Workforce AI",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "07  Workforce AI",
+              "fontSize": 22,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8z2lczy5",
+      "id": "3",
+      "name": "text-72",
+      "bbox": [
+        1180,
+        660,
+        58,
+        32
+      ],
+      "geometry": "rect",
+      "text": "08",
+      "textPreview": "08",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "08"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "08",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "08",
+              "fontSize": 22,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ju9kzuh8",
+      "id": "4",
+      "name": "text-73",
+      "bbox": [
+        42,
+        165,
+        1196,
+        68
+      ],
+      "geometry": "rect",
+      "text": "“최근 6개월 인력이 가장 많이 늘어난 조직과 이유는?”",
+      "textPreview": "“최근 6개월 인력이 가장 많이 늘어난 조직과 이유는?”",
+      "resolvedFontSize": 35,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 35,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#1764C0",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "“최근 6개월 인력이 가장 많이 늘어난 조직과 이유는?”"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "“최근 6개월 인력이 가장 많이 늘어난 조직과 이유는?”",
+          "resolvedTextStyle": {
+            "fontSize": 35,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#1764C0",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "“최근 6개월 인력이 가장 많이 늘어난 조직과 이유는?”",
+              "fontSize": 35,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#1764C0",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yt036pgn",
+      "id": "5",
+      "name": "text-74",
+      "bbox": [
+        42,
+        315,
+        374,
+        48
+      ],
+      "geometry": "rect",
+      "text": "질문 해석",
+      "textPreview": "질문 해석",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "질문 해석"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "질문 해석",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "질문 해석",
+              "fontSize": 34,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lwb214ze",
+      "id": "6",
+      "name": "text-75",
+      "bbox": [
+        42,
+        382,
+        374,
+        140
+      ],
+      "geometry": "rect",
+      "text": "지표·기간·조직 범위 확정",
+      "textPreview": "지표·기간·조직 범위 확정",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "지표·기간·조직 범위 확정"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "지표·기간·조직 범위 확정",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "지표·기간·조직 범위 확정",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kv2l8zyt",
+      "id": "7",
+      "name": "text-76",
+      "bbox": [
+        453,
+        315,
+        374,
+        48
+      ],
+      "geometry": "rect",
+      "text": "권한 내 조회",
+      "textPreview": "권한 내 조회",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "권한 내 조회"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "권한 내 조회",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "권한 내 조회",
+              "fontSize": 34,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3qd4behs",
+      "id": "8",
+      "name": "text-77",
+      "bbox": [
+        453,
+        382,
+        374,
+        140
+      ],
+      "geometry": "rect",
+      "text": "공통 지표와 허용된 쿼리 사용",
+      "textPreview": "공통 지표와 허용된 쿼리 사용",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "공통 지표와 허용된 쿼리 사용"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "공통 지표와 허용된 쿼리 사용",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "공통 지표와 허용된 쿼리 사용",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ip43itg7",
+      "id": "9",
+      "name": "text-78",
+      "bbox": [
+        864,
+        315,
+        374,
+        48
+      ],
+      "geometry": "rect",
+      "text": "계산과 설명",
+      "textPreview": "계산과 설명",
+      "resolvedFontSize": 34,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 34,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "계산과 설명"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "계산과 설명",
+          "resolvedTextStyle": {
+            "fontSize": 34,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "계산과 설명",
+              "fontSize": 34,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/g3y14fqx",
+      "id": "10",
+      "name": "text-79",
+      "bbox": [
+        864,
+        382,
+        374,
+        140
+      ],
+      "geometry": "rect",
+      "text": "증감·기여도 계산 후 근거 제시",
+      "textPreview": "증감·기여도 계산 후 근거 제시",
+      "resolvedFontSize": 28,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 28,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "증감·기여도 계산 후 근거 제시"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "증감·기여도 계산 후 근거 제시",
+          "resolvedTextStyle": {
+            "fontSize": 28,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "증감·기여도 계산 후 근거 제시",
+              "fontSize": 28,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/h472xk72",
+      "id": "11",
+      "name": "text-80",
+      "bbox": [
+        42,
+        580,
+        1196,
+        50
+      ],
+      "geometry": "rect",
+      "text": "답변에 기준 시점 · 지표 정의 · 데이터 출처 · 추정 가정을 함께 표시",
+      "textPreview": "답변에 기준 시점 · 지표 정의 · 데이터 출처 · 추정 가정을 함께 표시",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 27,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "답변에 기준 시점 · 지표 정의 · 데이터 출처 · 추정 가정을 함께 표시"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "답변에 기준 시점 · 지표 정의 · 데이터 출처 · 추정 가정을 함께 표시",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "답변에 기준 시점 · 지표 정의 · 데이터 출처 · 추정 가정을 함께 표시",
+              "fontSize": 27,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

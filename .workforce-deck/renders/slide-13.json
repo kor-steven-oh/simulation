@@ -1,0 +1,1059 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/lz8onu",
+    "id": "lz8onu",
+    "slide": 13,
+    "layoutId": "1eb48992-fce6-4e88-97dc-c25b54c3b63c",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "1cc30653-bfd7-4f3d-97fa-9427bf44f66d",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#FFFFFF",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "Apple SD Gothic Neo"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "1eb48992-fce6-4e88-97dc-c25b54c3b63c",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "1cc30653-bfd7-4f3d-97fa-9427bf44f66d",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "1cc30653-bfd7-4f3d-97fa-9427bf44f66d",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wvul43a9",
+      "id": "1",
+      "name": "text-129",
+      "bbox": [
+        42,
+        40,
+        1196,
+        82
+      ],
+      "geometry": "rect",
+      "text": "MVP부터 검증하며 기능과 데이터를 확장합니다",
+      "textPreview": "MVP부터 검증하며 기능과 데이터를 확장합니다",
+      "resolvedFontSize": 48,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 48,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MVP부터 검증하며 기능과 데이터를 확장합니다"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MVP부터 검증하며 기능과 데이터를 확장합니다",
+          "resolvedTextStyle": {
+            "fontSize": 48,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MVP부터 검증하며 기능과 데이터를 확장합니다",
+              "fontSize": 48,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bulkvy9o",
+      "id": "2",
+      "name": "text-130",
+      "bbox": [
+        42,
+        663,
+        1100,
+        29
+      ],
+      "geometry": "rect",
+      "text": "12  단계별 구축",
+      "textPreview": "12  단계별 구축",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "12  단계별 구축"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "12  단계별 구축",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "12  단계별 구축",
+              "fontSize": 22,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/atc32ts3",
+      "id": "3",
+      "name": "text-131",
+      "bbox": [
+        1180,
+        660,
+        58,
+        32
+      ],
+      "geometry": "rect",
+      "text": "13",
+      "textPreview": "13",
+      "resolvedFontSize": 22,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 22,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "13"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "13",
+          "resolvedTextStyle": {
+            "fontSize": 22,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "13",
+              "fontSize": 22,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l0nm18rq",
+      "id": "4",
+      "bbox": [
+        42,
+        190,
+        1196,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#B8BCC4",
+      "lineWidth": 0
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kzel83q5",
+      "id": "5",
+      "name": "text-132",
+      "bbox": [
+        52,
+        210,
+        264,
+        48
+      ],
+      "geometry": "rect",
+      "text": "1  현황 기반",
+      "textPreview": "1  현황 기반",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 29,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "1  현황 기반"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "1  현황 기반",
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "1  현황 기반",
+              "fontSize": 29,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jy54zi90",
+      "id": "6",
+      "name": "text-133",
+      "bbox": [
+        337,
+        210,
+        884,
+        55
+      ],
+      "geometry": "rect",
+      "text": "인력·조직·직무·근태·시점 이력 구축  |  원안 예시 3–4개월",
+      "textPreview": "인력·조직·직무·근태·시점 이력 구축  |  원안 예시 3–4개월",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 27,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "인력·조직·직무·근태·시점 이력 구축  |  원안 예시 3–4개월"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "인력·조직·직무·근태·시점 이력 구축  |  원안 예시 3–4개월",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "인력·조직·직무·근태·시점 이력 구축  |  원안 예시 3–4개월",
+              "fontSize": 27,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/yxw36d8f",
+      "id": "7",
+      "bbox": [
+        42,
+        272,
+        1196,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#B8BCC4",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/to7m5sr2",
+      "id": "8",
+      "name": "text-134",
+      "bbox": [
+        52,
+        292,
+        264,
+        48
+      ],
+      "geometry": "rect",
+      "text": "2  과제 연결",
+      "textPreview": "2  과제 연결",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 29,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "2  과제 연결"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "2  과제 연결",
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "2  과제 연결",
+              "fontSize": 29,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/8nylcnqh",
+      "id": "9",
+      "name": "text-135",
+      "bbox": [
+        337,
+        292,
+        884,
+        55
+      ],
+      "geometry": "rect",
+      "text": "과제·배치·Man month 연결  |  역량 데이터 확장",
+      "textPreview": "과제·배치·Man month 연결  |  역량 데이터 확장",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 27,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "과제·배치·Man month 연결  |  역량 데이터 확장"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "과제·배치·Man month 연결  |  역량 데이터 확장",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "과제·배치·Man month 연결  |  역량 데이터 확장",
+              "fontSize": 27,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/edcfitc3",
+      "id": "10",
+      "bbox": [
+        42,
+        354,
+        1196,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#B8BCC4",
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/zelwbyto",
+      "id": "11",
+      "name": "text-136",
+      "bbox": [
+        52,
+        374,
+        264,
+        48
+      ],
+      "geometry": "rect",
+      "text": "3  지능화",
+      "textPreview": "3  지능화",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 29,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "3  지능화"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "3  지능화",
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "3  지능화",
+              "fontSize": 29,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0fuxk3u9",
+      "id": "12",
+      "name": "text-137",
+      "bbox": [
+        337,
+        374,
+        884,
+        55
+      ],
+      "geometry": "rect",
+      "text": "자연어 질의·추세·원인·이동·역량 분석",
+      "textPreview": "자연어 질의·추세·원인·이동·역량 분석",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 27,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "자연어 질의·추세·원인·이동·역량 분석"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "자연어 질의·추세·원인·이동·역량 분석",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "자연어 질의·추세·원인·이동·역량 분석",
+              "fontSize": 27,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1g3ed8be",
+      "id": "13",
+      "bbox": [
+        42,
+        436,
+        1196,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#B8BCC4",
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/mhcfmdcz",
+      "id": "14",
+      "name": "text-138",
+      "bbox": [
+        52,
+        456,
+        264,
+        48
+      ],
+      "geometry": "rect",
+      "text": "4  미래 계획",
+      "textPreview": "4  미래 계획",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 29,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "4  미래 계획"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "4  미래 계획",
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "4  미래 계획",
+              "fontSize": 29,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nilwfytk",
+      "id": "15",
+      "name": "text-139",
+      "bbox": [
+        337,
+        456,
+        884,
+        55
+      ],
+      "geometry": "rect",
+      "text": "사업계획·역량 수요·인력 수급 예측",
+      "textPreview": "사업계획·역량 수요·인력 수급 예측",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 27,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "사업계획·역량 수요·인력 수급 예측"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "사업계획·역량 수요·인력 수급 예측",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "사업계획·역량 수요·인력 수급 예측",
+              "fontSize": 27,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ojuxo3u5",
+      "id": "16",
+      "bbox": [
+        42,
+        518,
+        1196,
+        1
+      ],
+      "geometry": "rect",
+      "fillColor": "#B8BCC4",
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9k3eh8bq",
+      "id": "17",
+      "name": "text-140",
+      "bbox": [
+        52,
+        538,
+        264,
+        48
+      ],
+      "geometry": "rect",
+      "text": "5  최적화",
+      "textPreview": "5  최적화",
+      "resolvedFontSize": 29,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 29,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#141414",
+        "bold": true,
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "5  최적화"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "5  최적화",
+          "resolvedTextStyle": {
+            "fontSize": 29,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#141414",
+            "bold": true
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "5  최적화",
+              "fontSize": 29,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#141414",
+              "bold": true
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2l8va9cv",
+      "id": "18",
+      "name": "text-141",
+      "bbox": [
+        337,
+        538,
+        884,
+        55
+      ],
+      "geometry": "rect",
+      "text": "시나리오 비교·역량 매칭·재배치 대안 제시",
+      "textPreview": "시나리오 비교·역량 매칭·재배치 대안 제시",
+      "resolvedFontSize": 27,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 27,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#555B64",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "시나리오 비교·역량 매칭·재배치 대안 제시"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "시나리오 비교·역량 매칭·재배치 대안 제시",
+          "resolvedTextStyle": {
+            "fontSize": 27,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#555B64"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "시나리오 비교·역량 매칭·재배치 대안 제시",
+              "fontSize": 27,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#555B64"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/3m1w3etg",
+      "id": "19",
+      "name": "text-142",
+      "bbox": [
+        42,
+        602,
+        1196,
+        42
+      ],
+      "geometry": "rect",
+      "text": "MVP 권장: 6개 핵심 데이터 + 시점 이력 / 일정은 연계 가능성과 품질 확인 후 확정",
+      "textPreview": "MVP 권장: 6개 핵심 데이터 + 시점 이력 / 일정은 연계 가능성과 품질 확인 후 확정",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "anchor": 1,
+        "fontSize": 23,
+        "typeface": "Apple SD Gothic Neo",
+        "color": "#1764C0",
+        "alignment": "left",
+        "verticalAlignment": "top",
+        "autoFit": "none",
+        "insets": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MVP 권장: 6개 핵심 데이터 + 시점 이력 / 일정은 연계 가능성과 품질 확인 후 확정"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MVP 권장: 6개 핵심 데이터 + 시점 이력 / 일정은 연계 가능성과 품질 확인 후 확정",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "typeface": "Apple SD Gothic Neo",
+            "color": "#1764C0"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MVP 권장: 6개 핵심 데이터 + 시점 이력 / 일정은 연계 가능성과 품질 확인 후 확정",
+              "fontSize": 23,
+              "typeface": "Apple SD Gothic Neo",
+              "color": "#1764C0"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,1 @@
+All 14 slides rendered and individually inspected at 1280x720. No clipping or unexpected wrapping observed. All text boxes within slide canvas. No unintended text overlaps. FTE term absent from slide and notes XML. Man month example totals verified: 24*3=72, 18*3=54, 14*3=42, 54-42=12. Source and proposed decisions distinguished in notes.
